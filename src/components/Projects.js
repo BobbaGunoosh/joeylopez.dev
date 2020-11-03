@@ -2,7 +2,7 @@ import React from 'react'
 import '../App.css'
 import one from '../assets/github-port.png'
 import two from '../assets/react.png'
-import three from '../assets/crud-port.png'
+import three from '../assets/crud.png'
 import four from '../assets/html.png'
 import five from '../assets/jack-port.png'
 import six from '../assets/react.png'
@@ -38,7 +38,7 @@ function Projects() {
           <img src={three} alt="" />
         </div>
         <div className="project-card-body">
-          <span className="tag tag-purple"><a href="https://wwww.github.com" >Live Site</a></span>
+          <span className="tag tag-blue"><a href="https://wwww.github.com" >Live Site</a></span>
           <h4>CRUD APP</h4>
           <p>
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus
@@ -47,10 +47,10 @@ function Projects() {
             veritatis.
           </p>
           <div className="user">
-            <img src={four} alt="" />
+             <img src={two} alt="" />
             <div className="user-info">
-              <h5>Macbook Pro</h5>
-              <small>2hr ago</small>
+              <h5>Made with React</h5>
+              <small>Also HTML5</small>
             </div>
           </div>
         </div>
@@ -69,10 +69,10 @@ function Projects() {
             veritatis.
           </p>
           <div className="user">
-            <img src={six} alt="" />
+             <img src={two} alt="" />
             <div className="user-info">
-              <h5>Pop OS</h5>
-              <small>2hr ago</small>
+              <h5>Made with React</h5>
+              <small>Also HTML5</small>
             </div>
           </div>
         </div>

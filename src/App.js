@@ -10,7 +10,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <Container>
+    <Container className='main'>
      <Navigation />
      <Route path='/' exact component={Home} />
      <Route path='/projects' component={Projects} />
