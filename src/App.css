@@ -1,0 +1,170 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Navigation Bar */
+.nav-pills .nav-link.active {
+  background-color: red !important;
+  color: white !important;
+}
+
+.port-footer {
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+/* Home Page */
+.hero {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero_sub {
+  letter-spacing: 1px;
+}
+
+.hero span {
+  color: red;
+}
+
+/* Contact Page */
+
+.contact-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  letter-spacing: 1px;
+  height: 80vh;
+}
+
+.contact-links ul {
+  margin-top: 10px;
+  width: 50vh;
+  display: flex;
+  justify-content: space-around;
+}
+
+.contact-links ul {
+  font-size: large;
+  list-style: none;
+}
+
+.links a {
+  color: black;
+}
+
+.email-link {
+  margin-top: 10px;
+  font-size: larger;
+}
+
+.email-link a {
+  color: red;
+}
+
+/* Projects */
+
+.project-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  width: auto;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+/* .project-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  width: 940px;
+  margin: auto;
+} */
+
+.project-card {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0px 23px 49px -5px #777;
+  overflow: hidden;
+  border: 1px solid #777;
+  width: 300px;
+}
+
+.project-card-header img {
+  width: 100%;
+  height: 200px;
+  border-bottom: 1px solid #777;
+  object-fit: cover;
+}
+
+.project-card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  padding: 20px;
+  min-height: 250px;
+}
+
+.tag a {
+  color: white;
+  font-weight: bold;
+}
+
+.tag {
+  background: #777;
+  border-radius: 50px;
+  font-size: 12px;
+  margin: 0;
+  color: #fff;
+  padding: 2px 10px;
+  text-transform: uppercase;
+}
+
+.tag-red {
+  background-color: #dc3545;
+}
+
+.tag-purple {
+  background-color: #3d1d94;
+}
+
+.tag-dark {
+  background-color: #252d4a;
+}
+
+.project-card-body h4 {
+  margin: 10px 0;
+}
+
+.project-card-body p {
+  font-size: 13px;
+  margin: 0 0 40px;
+}
+
+.user {
+  display: flex;
+  margin-top: auto;
+}
+
+.user img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.user-info h5 {
+  margin: 0;
+}
+
+.user-info small {
+  color: #888785;
+}
