@@ -75,15 +75,16 @@
 
 .email-link {
   margin-top: 10px;
-  font-size: larger;
+  font-size: 2em;
 }
 
 .email-link a {
   color: red;
 }
 .email-link a:hover {
-  color: black;
+  color: #777;
   text-decoration: none;
+  transform: scale(1.1);
 }
 
 /* Projects */

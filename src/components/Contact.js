@@ -1,4 +1,5 @@
 import React from 'react'
+import { FaRegEnvelope } from 'react-icons/fa'
 
 function Contact() {
     return (
@@ -6,7 +7,7 @@ function Contact() {
            <h1 className>Contact Me!</h1>
            <h3>I'm available for freelance work as well.</h3>
            <h3 className='lead'>Reach out to me so we can chat.</h3>
-           <p className='email-link'><a href="mailto:inquiry@joeylopez.dev">inquiry@joeylopez.dev</a></p>
+           <p className='email-link'><a href="mailto:joeyl509625@gmail.com">Email Me: <span className='icon'><FaRegEnvelope /> </span></a></p>
         <div  className='contact-links'>
           <ul className='links'>
               <li>
