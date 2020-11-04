@@ -179,4 +179,8 @@
     margin-top: 60px;
     margin-bottom: 60px;
   }
+
+  .port-nav {
+    color: red !important;
+  }
 }

@@ -5,7 +5,7 @@ import '../App'
 
 function Navigation() {
     return (
-        <Navbar className='justify-content-around ' >
+        <Navbar className='port-nav justify-content-around ' >
             <Nav variant='pills ' defaultActiveKey='1'>
                 <Nav.Item>
                     <Nav.Link as={Link} to='/' eventKey='1'><strong>Home</strong></Nav.Link>
