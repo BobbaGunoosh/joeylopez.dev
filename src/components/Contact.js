@@ -2,11 +2,11 @@ import React from 'react'
 
 function Contact() {
     return (
-        <section className='contact-page text-center '>
+      <section className='contact-page text-center '>
            <h1 className>Contact Me!</h1>
            <h3>I'm available for freelance work as well.</h3>
            <h3 className='lead'>Reach out to me so we can chat.</h3>
-           <p className='email-link'><a href="mailto:inquiry@joey.lopez.dev">inquiry@joey.lopez.dev</a></p>
+           <p className='email-link'><a href="mailto:inquiry@joeylopez.dev">inquiry@joeylopez.dev</a></p>
         <div  className='contact-links'>
           <ul className='links'>
               <li>
@@ -17,7 +17,7 @@ function Contact() {
               </li>
           </ul>
         </div>
-        </section>
+      </section>
     )
 }
 
