@@ -26,7 +26,6 @@ function Projects() {
             <img src={two} alt="" />
             <div className="user-info">
               <h5>Made with React</h5>
-              <small>Also HTML5</small>
             </div>
           </div>
         </div>
@@ -48,7 +47,6 @@ function Projects() {
              <img src={two} alt="" />
             <div className="user-info">
               <h5>Made with React</h5>
-              <small>Also HTML5</small>
             </div>
           </div>
         </div>
@@ -70,7 +68,6 @@ function Projects() {
              <img src={two} alt="" />
             <div className="user-info">
               <h5>Made with React</h5>
-              <small>Also HTML5</small>
             </div>
           </div>
         </div>
