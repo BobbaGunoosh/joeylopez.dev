@@ -3,9 +3,7 @@ import '../App.css'
 import one from '../assets/github-port.png'
 import two from '../assets/react.png'
 import three from '../assets/crud.png'
-import four from '../assets/html.png'
 import five from '../assets/jack-port.png'
-import six from '../assets/react.png'
 
 function Projects() {
     return (
