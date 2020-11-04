@@ -17,10 +17,8 @@ function Projects() {
           <span className="tag tag-red"><a href="https://githubfinderbobbagunoosh.netlify.app/" rel='noopener noreferrer' target='_blank' >Live Site</a></span>
           <h4>Github Finder</h4>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus
-            odit atque cumque eaque eius quos ad possimus consequatur, molestiae
-            pariatur a, non nemo unde quis recusandae eos minima incidunt
-            veritatis.
+            React application to search for users using Githubs API. <br />
+            Application uses Context API and useContext for state management.
           </p>
           <div className="user">
             <img src={two} alt="" />
@@ -38,10 +36,7 @@ function Projects() {
           <span className="tag tag-blue"><a href="https://crudport.netlify.app/" rel='noopener noreferrer' target='_blank' >Live Site</a></span>
           <h4>CRUD APP</h4>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus
-            odit atque cumque eaque eius quos ad possimus consequatur, molestiae
-            pariatur a, non nemo unde quis recusandae eos minima incidunt
-            veritatis.
+           Front-end web application used for the purpose of using CRUD procedures. 
           </p>
           <div className="user">
              <img src={two} alt="" />
@@ -59,10 +54,7 @@ function Projects() {
           <span className="tag tag-dark"><a href="https://youdontknowjack.netlify.app/" rel='noopener noreferrer' target='_blank' >Live Site</a></span>
           <h4>You Don't Know Jack</h4>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus
-            odit atque cumque eaque eius quos ad possimus consequatur, molestiae
-            pariatur a, non nemo unde quis recusandae eos minima incidunt
-            veritatis.
+            Simple Quiz Application built with React Hooks.
           </p>
           <div className="user">
              <img src={two} alt="" />
