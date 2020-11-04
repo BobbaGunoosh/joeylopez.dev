@@ -10,13 +10,10 @@ function Contact() {
         <div  className='contact-links'>
           <ul className='links'>
               <li>
-                 <a href="https://www.linkedin.com"  rel='noopener noreferrer' target='_blank'>Linked in</a>
+                 <a href="https://www.linkedin.com/in/joeylopez0587/"  rel='noopener noreferrer' target='_blank'>Linked in</a>
               </li>
               <li>
-                 <a href="https://wwww.github.com" rel='noopener noreferrer' target='_blank'>Github</a> 
-              </li>
-              <li>
-                 <a href="https://www.medium.com" rel='noopener noreferrer' target='_blank'>Journal</a> 
+                 <a href="https://github.com/BobbaGunoosh" rel='noopener noreferrer' target='_blank'>Github</a> 
               </li>
           </ul>
         </div>

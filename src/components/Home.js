@@ -10,7 +10,7 @@ function Home() {
         <Container className='hero text-center'>
            <h1 className="hero-title">Hi. I'm <span>Joey</span></h1> 
            <h4>A Web Developer</h4>     
-            <p className="hero_sub lead">This is where I will give a brief description about myself. Try to keep it to two sentences.</p>
+            <p className="hero_sub lead">Full-Stack developer with a special nack for React and NodeJs. Zelda enthuiast and drink slinger.</p>
           <section className='hero-img'>
              <Image
               src={Cartoon}

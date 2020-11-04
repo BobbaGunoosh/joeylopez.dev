@@ -14,7 +14,7 @@ function Projects() {
           <img src={one} alt="" />
         </div>
         <div className="project-card-body">
-          <span className="tag tag-red"><a href="https://www.github.com" >Live Site</a></span>
+          <span className="tag tag-red"><a href="https://githubfinderbobbagunoosh.netlify.app/" rel='noopener noreferrer' target='_blank' >Live Site</a></span>
           <h4>Github Finder</h4>
           <p>
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus
@@ -36,7 +36,7 @@ function Projects() {
           <img src={three} alt="" />
         </div>
         <div className="project-card-body">
-          <span className="tag tag-blue"><a href="https://wwww.github.com" >Live Site</a></span>
+          <span className="tag tag-blue"><a href="https://crudport.netlify.app/" rel='noopener noreferrer' target='_blank' >Live Site</a></span>
           <h4>CRUD APP</h4>
           <p>
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus
@@ -58,7 +58,7 @@ function Projects() {
           <img src={five} alt="" />
         </div>
         <div className="project-card-body">
-          <span className="tag tag-dark"><a href="https://www.github.com" >Live Site</a></span>
+          <span className="tag tag-dark"><a href="https://youdontknowjack.netlify.app/" rel='noopener noreferrer' target='_blank' >Live Site</a></span>
           <h4>You Don't Know Jack</h4>
           <p>
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus
