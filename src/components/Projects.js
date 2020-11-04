@@ -17,8 +17,7 @@ function Projects() {
           <span className="tag tag-red"><a href="https://githubfinderbobbagunoosh.netlify.app/" rel='noopener noreferrer' target='_blank' >Live Site</a></span>
           <h4>Github Finder</h4>
           <p>
-            React application to search for users using Githubs API. <br />
-            Application uses Context API and useContext for state management.
+            React application to search for users using Githubs API.
           </p>
           <div className="user">
             <img src={two} alt="" />
