@@ -7,7 +7,6 @@ import five from '../assets/jack-port.png'
 
 function Projects() {
     return (
-<div className='project'>
     <div className="project-container">
       <div className="project-card">
         <div className="project-card-header">
@@ -64,7 +63,7 @@ function Projects() {
         </div>
       </div>
     </div>
-  </div>
+
     )
 }
 

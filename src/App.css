@@ -6,14 +6,20 @@
   box-sizing: border-box;
 }
 
+body {
+  font-size: calc(10px + 0.33vw);
+  -webkit-font-smoothing: antialiased;
+  color: #121314;
+}
+
+.main {
+  height: 100vh;
+}
+
 /* Navigation Bar */
 .nav-pills .nav-link.active {
   background-color: red !important;
   color: white !important;
-}
-
-.port-footer {
-  margin-top: 10px !important;
 }
 
 /* Home Page */
@@ -22,6 +28,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin-top: 5vh;
 }
 
 .hero_sub {
