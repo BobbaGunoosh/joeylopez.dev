@@ -16,10 +16,7 @@ function Home() {
               src={Cartoon}
               alt=''
               fluid />
-          </section> 
-          <div>
-              <p className='hero small'>But I am always looking to further my knowledge and learn as much as I can.</p>
-          </div>        
+          </section>        
         </Container>
     )
 }
