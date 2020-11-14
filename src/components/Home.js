@@ -12,7 +12,7 @@ function Home() {
            <h1 className="hero-title">Hi. I'm <span>Joey</span></h1>
            </div> 
            <h4>A Web Developer</h4>     
-            <p className="hero_sub lead">Web developer with a special knack for React.</p>
+            <p className="hero_sub lead">Front-End Web developer with a special knack for React.</p>
           <section className='hero-img'>
              <Image
               src={Cartoon}
