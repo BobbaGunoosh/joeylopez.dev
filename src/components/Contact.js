@@ -7,7 +7,7 @@ function Contact() {
            <h1 className>Contact Me!</h1>
            <h3>I'm available for freelance work as well.</h3>
            <h3 className='lead'>Reach out to me so we can chat.</h3>
-           <p className='email-link'><a href="inquiry@joeylopez.dev"><span className='icon'><FaRegEnvelope /> inquiry@joeylopez.dev </span></a></p>
+           <p className='email-link'><a href="mailto:inquiry@joeylopez.dev"><span className='icon'><FaRegEnvelope /> inquiry@joeylopez.dev </span></a></p>
         <div  className='contact-links'>
           <ul className='links'>
               <li>
